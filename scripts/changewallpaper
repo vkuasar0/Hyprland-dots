@@ -1,7 +1,22 @@
 #!/bin/bash
 
-DIR=$HOME/.config/hypr/bg
-random_wallpaper=$(find $DIR -type f | sort -R | head -1)
+DIRS=(
+  "$HOME/.config/hypr/bg"
+  "$HOME/Pictures/wallpapers"
+  "$HOME/Pictures/wallpapers/Dynamic-Wallpapers/Dark"
+  "$HOME/Pictures/wallpapers/Dynamic-Wallpapers/Light"
+  "/usr/share/backgrounds/archlinux-login-backgrounds"
+  "/usr/share/backgrounds/arcolinux"
+  "/usr/share/backgrounds/arcolinux-candy"
+  "/usr/share/backgrounds/arcolinux-dual"
+)
+
+# File to store the currently set wallpaper
+WALLPAPER_FILE="$HOME/.config/current_wallpaper.txt"
+
+random_wallpaper=$(find "${DIRS[@]}" -type f | sort -R | head -1)
+echo "$random_wallpaper" > "$WALLPAPER_FILE"
+current_wallpaper="$random_wallpaper"
 
 # Terminate already running bar instances
 killall -q swaybg
@@ -9,5 +24,9 @@ killall -q swaybg
 # Wait until the processes have been shut down
 while pgrep -x swaybg >/dev/null; do sleep 1; done
 
-swaybg -m fill -i $random_wallpaper &
-notify-send "$random_wallpaper" &
+# Set the wallpaper with swaybg
+swaybg -m fill -i "$current_wallpaper" &
+
+# Notify the user
+notify-send "Wallpaper set to: $current_wallpaper" &
+
