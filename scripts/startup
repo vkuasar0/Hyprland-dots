@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#wallpaper fetcher and wallpaper rotator
-#type "var" in a terminal to change settings - example
-#variety &
-
 SCRIPTSDIR=$HOME/.config/hypr/scripts
 
 # Kill already running process
@@ -13,11 +9,6 @@ for _prs in "${_ps[@]}"; do
 		killall -9 ${_prs}
 	fi
 done
-
-# polkit agent
-if [[ ! 'pidof polkit-gnome-authentication-agent-1' ]];then
-	/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-fi
 
 # Apply themes
 ${SCRIPTSDIR}/gtkthemes &
@@ -32,10 +23,4 @@ ${SCRIPTSDIR}/statusbar &
 ${SCRIPTSDIR}/xauthority &
 
 dex $HOME/.config/autostart/arcolinux-welcome-app.desktop &
-
-#insync start &
-#dropbox &
-#telegram-desktop &
-#discord &
-nm-applet --indicator &
 
