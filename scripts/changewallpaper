@@ -19,13 +19,15 @@ echo "$random_wallpaper" > "$WALLPAPER_FILE"
 current_wallpaper="$random_wallpaper"
 
 # Terminate already running bar instances
-killall -q swaybg
+#killall -q swaybg
 
 # Wait until the processes have been shut down
-while pgrep -x swaybg >/dev/null; do sleep 1; done
+#while pgrep -x swaybg >/dev/null; do sleep 1; done
 
 # Set the wallpaper with swaybg
-swaybg -m fill -i "$current_wallpaper" &
+#swaybg -m fill -i "$current_wallpaper" &
+#Set the wallpaper with hyprpaper (systemd service)
+hyprctl hyprpaper reload ,$(cat $HOME/.config/current_wallpaper.txt)
 
 # Notify the user
 notify-send "Wallpaper set to: $current_wallpaper" &

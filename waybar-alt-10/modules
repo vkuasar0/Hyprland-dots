@@ -143,7 +143,7 @@
   "custom/power": {
     "format": "  ",
     "tooltip": false,
-    "on-click": "archlinux-logout",
+    "on-click": "wlogout",
   },
   "disk": {
     "interval": 30,
@@ -188,7 +188,7 @@
   },
   "custom/cycle_wall": {
     "format": "",
-    "on-click": "~/.config/hypr/scripts/changeWallpaper",
+    "on-click": "~/.config/hypr/scripts/changewallpaper",
     "tooltip-format": "Change wallpaper",
   },
   "pulseaudio": {
