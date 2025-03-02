@@ -5,10 +5,6 @@ DIRS=(
   "$HOME/Pictures/wallpapers"
   "$HOME/Pictures/wallpapers/Dynamic-Wallpapers/Dark"
   "$HOME/Pictures/wallpapers/Dynamic-Wallpapers/Light"
-  "/usr/share/backgrounds/archlinux-login-backgrounds"
-  "/usr/share/backgrounds/arcolinux"
-  "/usr/share/backgrounds/arcolinux-candy"
-  "/usr/share/backgrounds/arcolinux-dual"
 )
 
 # File to store the currently set wallpaper
