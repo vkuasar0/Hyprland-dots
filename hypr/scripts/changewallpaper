@@ -1,0 +1,30 @@
+#!/bin/bash
+
+DIRS=(
+  "$HOME/.config/hypr/bg"
+  "$HOME/Pictures/wallpapers"
+  "$HOME/Pictures/wallpapers/Dynamic-Wallpapers/Dark"
+  "$HOME/Pictures/wallpapers/Dynamic-Wallpapers/Light"
+)
+
+# File to store the currently set wallpaper
+WALLPAPER_FILE="$HOME/.config/current_wallpaper.txt"
+
+random_wallpaper=$(find "${DIRS[@]}" -type f | sort -R | head -1)
+echo "$random_wallpaper" > "$WALLPAPER_FILE"
+current_wallpaper="$random_wallpaper"
+
+# Terminate already running bar instances
+#killall -q swaybg
+
+# Wait until the processes have been shut down
+#while pgrep -x swaybg >/dev/null; do sleep 1; done
+
+# Set the wallpaper with swaybg
+#swaybg -m fill -i "$current_wallpaper" &
+#Set the wallpaper with hyprpaper (systemd service)
+hyprctl hyprpaper reload ,$(cat $HOME/.config/current_wallpaper.txt)
+
+# Notify the user
+notify-send "Wallpaper set to: $current_wallpaper" &
+

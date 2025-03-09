@@ -1,0 +1,822 @@
+
+2025/02/17 (22:26:55) | ===> btop++ v.1.4.0
+2025/02/17 (22:26:55) | INFO: Logger set to DEBUG
+2025/02/17 (22:26:55) | DEBUG: Using locale en_US.UTF-8
+2025/02/17 (22:26:55) | INFO: Running on /dev/pts/0
+2025/02/17 (22:26:55) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/17 (22:26:55) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/17 (22:26:55) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/17 (22:26:55) | DEBUG: Shared::init() : Initialized.
+2025/02/17 (22:26:55) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/17 (22:27:02) | DEBUG: Writing new config file
+2025/02/17 (22:27:02) | INFO: Quitting! Runtime: 00:00:07
+
+2025/02/19 (01:25:37) | ===> btop++ v.1.4.0
+2025/02/19 (01:25:37) | INFO: Logger set to DEBUG
+2025/02/19 (01:25:37) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (01:25:37) | INFO: Running on /dev/pts/0
+2025/02/19 (01:25:39) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (01:25:39) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (01:25:39) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (01:25:39) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (01:25:39) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/19 (01:25:57) | INFO: Quitting! Runtime: 00:00:20
+
+2025/02/19 (16:27:48) | ===> btop++ v.1.4.0
+2025/02/19 (16:27:48) | INFO: Logger set to DEBUG
+2025/02/19 (16:27:48) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (16:27:48) | INFO: Running on /dev/pts/0
+2025/02/19 (10:57:51) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (10:57:51) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (10:57:51) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (10:57:51) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (10:57:51) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (11:27:26) | ===> btop++ v.1.4.0
+2025/02/19 (11:27:26) | INFO: Logger set to DEBUG
+2025/02/19 (11:27:26) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (11:27:26) | INFO: Running on /dev/pts/0
+2025/02/19 (11:27:26) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (11:27:26) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (11:27:26) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (11:27:26) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (11:27:26) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (13:55:20) | ===> btop++ v.1.4.0
+2025/02/19 (13:55:20) | INFO: Logger set to DEBUG
+2025/02/19 (13:55:20) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (13:55:20) | INFO: Running on /dev/pts/0
+2025/02/19 (13:55:22) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (13:55:22) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (13:55:22) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (13:55:22) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (13:55:22) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (14:07:30) | ===> btop++ v.1.4.0
+2025/02/19 (14:07:30) | INFO: Logger set to DEBUG
+2025/02/19 (14:07:30) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (14:07:30) | INFO: Running on /dev/pts/0
+2025/02/19 (14:07:33) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (14:07:33) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (14:07:33) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (14:07:33) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (14:07:33) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/19 (14:07:40) | INFO: Quitting! Runtime: 00:00:10
+
+2025/02/19 (15:10:04) | ===> btop++ v.1.4.0
+2025/02/19 (15:10:04) | INFO: Logger set to DEBUG
+2025/02/19 (15:10:04) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (15:10:04) | INFO: Running on /dev/pts/0
+2025/02/19 (15:10:06) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (15:10:06) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (15:10:06) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (15:10:06) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (15:10:06) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (15:11:32) | ===> btop++ v.1.4.0
+2025/02/19 (15:11:32) | INFO: Logger set to DEBUG
+2025/02/19 (15:11:32) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (15:11:32) | INFO: Running on /dev/pts/0
+2025/02/19 (15:11:34) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (15:11:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (15:11:34) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (15:11:34) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (15:11:34) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/19 (15:11:38) | INFO: Quitting! Runtime: 00:00:06
+
+2025/02/19 (15:12:39) | ===> btop++ v.1.4.0
+2025/02/19 (15:12:39) | INFO: Logger set to DEBUG
+2025/02/19 (15:12:39) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (15:12:39) | INFO: Running on /dev/pts/0
+2025/02/19 (15:12:41) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (15:12:41) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (15:12:41) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (15:12:41) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (15:12:41) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (15:16:15) | ===> btop++ v.1.4.0
+2025/02/19 (15:16:15) | INFO: Logger set to DEBUG
+2025/02/19 (15:16:15) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (15:16:15) | INFO: Running on /dev/pts/0
+2025/02/19 (15:16:17) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (15:16:17) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (15:16:17) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (15:16:17) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (15:16:17) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (15:16:39) | ===> btop++ v.1.4.0
+2025/02/19 (15:16:39) | INFO: Logger set to DEBUG
+2025/02/19 (15:16:39) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (15:16:39) | INFO: Running on /dev/pts/0
+2025/02/19 (15:16:41) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (15:16:41) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (15:16:41) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (15:16:41) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (15:16:41) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (22:40:40) | ===> btop++ v.1.4.0
+2025/02/19 (22:40:40) | INFO: Logger set to DEBUG
+2025/02/19 (22:40:40) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (22:40:40) | INFO: Running on /dev/pts/0
+2025/02/19 (17:10:43) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (17:10:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (17:10:43) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (17:10:43) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (17:10:43) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (17:11:36) | ===> btop++ v.1.4.0
+2025/02/19 (17:11:36) | INFO: Logger set to DEBUG
+2025/02/19 (17:11:36) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (17:11:36) | INFO: Running on /dev/pts/0
+2025/02/19 (17:11:36) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (17:11:36) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (17:11:36) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (17:11:36) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (17:11:36) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (17:14:04) | ===> btop++ v.1.4.0
+2025/02/19 (17:14:04) | INFO: Logger set to DEBUG
+2025/02/19 (17:14:04) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (17:14:04) | INFO: Running on /dev/pts/0
+2025/02/19 (17:14:06) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (17:14:06) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (17:14:06) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (17:14:06) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (17:14:06) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (17:59:56) | ===> btop++ v.1.4.0
+2025/02/19 (17:59:56) | INFO: Logger set to DEBUG
+2025/02/19 (17:59:56) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (17:59:56) | INFO: Running on /dev/pts/0
+2025/02/19 (17:59:56) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (17:59:56) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (17:59:56) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (17:59:56) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (17:59:56) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (18:01:52) | ===> btop++ v.1.4.0
+2025/02/19 (18:01:52) | INFO: Logger set to DEBUG
+2025/02/19 (18:01:52) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (18:01:52) | INFO: Running on /dev/pts/0
+2025/02/19 (18:01:52) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (18:01:52) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (18:01:52) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (18:01:52) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (18:01:52) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (18:31:25) | ===> btop++ v.1.4.0
+2025/02/19 (18:31:25) | INFO: Logger set to DEBUG
+2025/02/19 (18:31:25) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (18:31:25) | INFO: Running on /dev/pts/1
+2025/02/19 (18:31:25) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (18:31:25) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (18:31:25) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (18:31:25) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (18:31:25) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (20:35:19) | ===> btop++ v.1.4.0
+2025/02/19 (20:35:19) | INFO: Logger set to DEBUG
+2025/02/19 (20:35:19) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (20:35:19) | INFO: Running on /dev/pts/1
+2025/02/19 (20:35:21) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (20:35:21) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (20:35:21) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (20:35:21) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (20:35:21) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/19 (20:35:31) | INFO: Quitting! Runtime: 00:00:12
+
+2025/02/19 (20:47:03) | ===> btop++ v.1.4.0
+2025/02/19 (20:47:03) | INFO: Logger set to DEBUG
+2025/02/19 (20:47:03) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (20:47:03) | INFO: Running on /dev/pts/1
+2025/02/19 (20:47:06) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (20:47:06) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (20:47:06) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (20:47:06) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (20:47:06) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (20:58:55) | ===> btop++ v.1.4.0
+2025/02/19 (20:58:55) | INFO: Logger set to DEBUG
+2025/02/19 (20:58:55) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (20:58:55) | INFO: Running on /dev/pts/0
+2025/02/19 (20:58:55) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (20:58:55) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (20:58:55) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (20:58:55) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (20:58:55) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (20:59:55) | ===> btop++ v.1.4.0
+2025/02/19 (20:59:55) | INFO: Logger set to DEBUG
+2025/02/19 (20:59:55) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (20:59:55) | INFO: Running on /dev/pts/0
+2025/02/19 (20:59:55) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (20:59:55) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (20:59:55) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (20:59:55) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (20:59:55) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (21:29:06) | ===> btop++ v.1.4.0
+2025/02/19 (21:29:06) | INFO: Logger set to DEBUG
+2025/02/19 (21:29:06) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (21:29:06) | INFO: Running on /dev/pts/0
+2025/02/19 (21:29:06) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (21:29:06) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (21:29:06) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (21:29:06) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (21:29:06) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (23:00:52) | ===> btop++ v.1.4.0
+2025/02/19 (23:00:52) | INFO: Logger set to DEBUG
+2025/02/19 (23:00:52) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (23:00:52) | INFO: Running on /dev/pts/3
+2025/02/19 (23:00:54) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (23:00:54) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (23:00:54) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (23:00:54) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (23:00:54) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/19 (23:01:34) | ===> btop++ v.1.4.0
+2025/02/19 (23:01:34) | INFO: Logger set to DEBUG
+2025/02/19 (23:01:34) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (23:01:34) | INFO: Running on /dev/pts/0
+2025/02/19 (23:01:36) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (23:01:36) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (23:01:36) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (23:01:36) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (23:01:36) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/19 (23:01:39) | INFO: Quitting! Runtime: 00:00:05
+
+2025/02/19 (23:03:00) | ===> btop++ v.1.4.0
+2025/02/19 (23:03:00) | INFO: Logger set to DEBUG
+2025/02/19 (23:03:00) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (23:03:00) | INFO: Running on /dev/pts/0
+2025/02/19 (23:03:03) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (23:03:03) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (23:03:03) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (23:03:03) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (23:03:03) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/19 (23:03:08) | INFO: Quitting! Runtime: 00:00:08
+
+2025/02/19 (23:10:25) | ===> btop++ v.1.4.0
+2025/02/19 (23:10:25) | INFO: Logger set to DEBUG
+2025/02/19 (23:10:25) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (23:10:25) | INFO: Running on /dev/pts/0
+2025/02/19 (23:10:27) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (23:10:27) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (23:10:27) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (23:10:27) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (23:10:27) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/19 (23:10:33) | INFO: Quitting! Runtime: 00:00:08
+
+2025/02/19 (23:13:38) | ===> btop++ v.1.4.0
+2025/02/19 (23:13:38) | INFO: Logger set to DEBUG
+2025/02/19 (23:13:38) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (23:13:38) | INFO: Running on /dev/pts/0
+2025/02/19 (23:13:38) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (23:13:38) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (23:13:38) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (23:13:38) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (23:13:38) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/19 (23:13:41) | INFO: Quitting! Runtime: 00:00:03
+
+2025/02/19 (23:19:29) | ===> btop++ v.1.4.0
+2025/02/19 (23:19:29) | INFO: Logger set to DEBUG
+2025/02/19 (23:19:29) | DEBUG: Using locale en_US.UTF-8
+2025/02/19 (23:19:29) | INFO: Running on /dev/pts/0
+2025/02/19 (23:19:29) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/19 (23:19:29) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/19 (23:19:29) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/19 (23:19:29) | DEBUG: Shared::init() : Initialized.
+2025/02/19 (23:19:29) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/20 (00:52:33) | ===> btop++ v.1.4.0
+2025/02/20 (00:52:33) | INFO: Logger set to DEBUG
+2025/02/20 (00:52:33) | DEBUG: Using locale en_US.UTF-8
+2025/02/20 (00:52:33) | INFO: Running on /dev/pts/0
+2025/02/20 (00:52:35) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/20 (00:52:35) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/20 (00:52:35) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/20 (00:52:35) | DEBUG: Shared::init() : Initialized.
+2025/02/20 (00:52:35) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/20 (00:52:49) | ===> btop++ v.1.4.0
+2025/02/20 (00:52:49) | INFO: Logger set to DEBUG
+2025/02/20 (00:52:49) | DEBUG: Using locale en_US.UTF-8
+2025/02/20 (00:52:49) | INFO: Running on /dev/pts/0
+2025/02/20 (00:52:49) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/20 (00:52:49) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/20 (00:52:49) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/20 (00:52:49) | DEBUG: Shared::init() : Initialized.
+2025/02/20 (00:52:49) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/20 (00:52:53) | ===> btop++ v.1.4.0
+2025/02/20 (00:52:53) | INFO: Logger set to DEBUG
+2025/02/20 (00:52:53) | DEBUG: Using locale en_US.UTF-8
+2025/02/20 (00:52:53) | INFO: Running on /dev/pts/0
+2025/02/20 (00:52:53) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/20 (00:52:53) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/20 (00:52:53) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/20 (00:52:53) | DEBUG: Shared::init() : Initialized.
+2025/02/20 (00:52:53) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/20 (00:54:01) | ===> btop++ v.1.4.0
+2025/02/20 (00:54:01) | INFO: Logger set to DEBUG
+2025/02/20 (00:54:01) | DEBUG: Using locale en_US.UTF-8
+2025/02/20 (00:54:01) | INFO: Running on /dev/pts/0
+2025/02/20 (00:54:03) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/20 (00:54:03) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/20 (00:54:03) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/20 (00:54:03) | DEBUG: Shared::init() : Initialized.
+2025/02/20 (00:54:03) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/21 (23:48:49) | ===> btop++ v.1.4.0
+2025/02/21 (23:48:49) | INFO: Logger set to DEBUG
+2025/02/21 (23:48:49) | DEBUG: Using locale en_US.UTF-8
+2025/02/21 (23:48:49) | INFO: Running on /dev/pts/0
+2025/02/21 (23:48:49) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/21 (23:48:49) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/21 (23:48:49) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/21 (23:48:49) | DEBUG: Shared::init() : Initialized.
+2025/02/21 (23:48:49) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (00:32:21) | ===> btop++ v.1.4.0
+2025/02/22 (00:32:21) | INFO: Logger set to DEBUG
+2025/02/22 (00:32:21) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (00:32:21) | INFO: Running on /dev/pts/0
+2025/02/22 (00:32:21) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (00:32:21) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (00:32:21) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (00:32:21) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (00:32:21) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (00:49:32) | ===> btop++ v.1.4.0
+2025/02/22 (00:49:32) | INFO: Logger set to DEBUG
+2025/02/22 (00:49:32) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (00:49:32) | INFO: Running on /dev/pts/0
+2025/02/22 (00:49:32) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (00:49:32) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (00:49:32) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (00:49:32) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (00:49:32) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (00:55:24) | ===> btop++ v.1.4.0
+2025/02/22 (00:55:24) | INFO: Logger set to DEBUG
+2025/02/22 (00:55:24) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (00:55:24) | INFO: Running on /dev/pts/0
+2025/02/22 (00:55:24) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (00:55:24) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (00:55:24) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (00:55:24) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (00:55:24) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (01:28:56) | ===> btop++ v.1.4.0
+2025/02/22 (01:28:56) | INFO: Logger set to DEBUG
+2025/02/22 (01:28:56) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (01:28:56) | INFO: Running on /dev/pts/0
+2025/02/22 (01:28:56) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (01:28:56) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (01:28:56) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (01:28:56) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (01:28:56) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/22 (01:29:08) | INFO: Quitting! Runtime: 00:00:12
+
+2025/02/22 (02:01:43) | ===> btop++ v.1.4.0
+2025/02/22 (02:01:43) | INFO: Logger set to DEBUG
+2025/02/22 (02:01:43) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (02:01:43) | INFO: Running on /dev/pts/0
+2025/02/22 (02:01:43) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (02:01:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (02:01:43) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (02:01:43) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (02:01:43) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (02:43:27) | ===> btop++ v.1.4.0
+2025/02/22 (02:43:27) | INFO: Logger set to DEBUG
+2025/02/22 (02:43:27) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (02:43:27) | INFO: Running on /dev/pts/0
+2025/02/22 (02:43:27) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (02:43:27) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (02:43:27) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (02:43:27) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (02:43:27) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (03:28:24) | ===> btop++ v.1.4.0
+2025/02/22 (03:28:24) | INFO: Logger set to DEBUG
+2025/02/22 (03:28:24) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (03:28:24) | INFO: Running on /dev/pts/0
+2025/02/22 (03:28:24) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (03:28:24) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (03:28:24) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (03:28:24) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (03:28:24) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (03:29:14) | ===> btop++ v.1.4.0
+2025/02/22 (03:29:14) | INFO: Logger set to DEBUG
+2025/02/22 (03:29:14) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (03:29:14) | INFO: Running on /dev/pts/0
+2025/02/22 (03:29:16) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (03:29:16) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (03:29:16) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (03:29:16) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (03:29:16) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (03:29:27) | ===> btop++ v.1.4.0
+2025/02/22 (03:29:27) | INFO: Logger set to DEBUG
+2025/02/22 (03:29:27) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (03:29:27) | INFO: Running on /dev/pts/0
+2025/02/22 (03:29:27) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (03:29:27) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (03:29:27) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (03:29:27) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (03:29:27) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (04:29:05) | ===> btop++ v.1.4.0
+2025/02/22 (04:29:05) | INFO: Logger set to DEBUG
+2025/02/22 (04:29:05) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (04:29:05) | INFO: Running on /dev/pts/1
+2025/02/22 (04:29:05) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (04:29:05) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (04:29:05) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (04:29:05) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (04:29:05) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (11:56:12) | ===> btop++ v.1.4.0
+2025/02/22 (11:56:12) | INFO: Logger set to DEBUG
+2025/02/22 (11:56:12) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (11:56:12) | INFO: Running on /dev/pts/0
+2025/02/22 (11:56:12) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (11:56:12) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (11:56:12) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (11:56:12) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (11:56:12) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (12:12:57) | ===> btop++ v.1.4.0
+2025/02/22 (12:12:57) | INFO: Logger set to DEBUG
+2025/02/22 (12:12:57) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (12:12:57) | INFO: Running on /dev/pts/2
+2025/02/22 (12:12:58) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (12:12:58) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (12:12:58) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (12:12:58) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (12:12:58) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/22 (12:33:52) | ===> btop++ v.1.4.0
+2025/02/22 (12:33:52) | INFO: Logger set to DEBUG
+2025/02/22 (12:33:52) | DEBUG: Using locale en_US.UTF-8
+2025/02/22 (12:33:52) | INFO: Running on /dev/pts/1
+2025/02/22 (12:33:52) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/22 (12:33:52) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/22 (12:33:52) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/22 (12:33:52) | DEBUG: Shared::init() : Initialized.
+2025/02/22 (12:33:52) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/23 (10:45:56) | ===> btop++ v.1.4.0
+2025/02/23 (10:45:56) | INFO: Logger set to DEBUG
+2025/02/23 (10:45:56) | DEBUG: Using locale en_US.UTF-8
+2025/02/23 (10:45:56) | INFO: Running on /dev/pts/0
+2025/02/23 (10:45:56) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/23 (10:45:56) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/23 (10:45:56) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/23 (10:45:56) | DEBUG: Shared::init() : Initialized.
+2025/02/23 (10:45:56) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/23 (12:31:25) | ===> btop++ v.1.4.0
+2025/02/23 (12:31:25) | INFO: Logger set to DEBUG
+2025/02/23 (12:31:25) | DEBUG: Using locale en_US.UTF-8
+2025/02/23 (12:31:25) | INFO: Running on /dev/pts/0
+2025/02/23 (12:31:25) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/23 (12:31:25) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/23 (12:31:25) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/23 (12:31:25) | DEBUG: Shared::init() : Initialized.
+2025/02/23 (12:31:25) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/23 (12:31:42) | ===> btop++ v.1.4.0
+2025/02/23 (12:31:42) | INFO: Logger set to DEBUG
+2025/02/23 (12:31:42) | DEBUG: Using locale en_US.UTF-8
+2025/02/23 (12:31:42) | INFO: Running on /dev/pts/0
+2025/02/23 (12:31:42) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/23 (12:31:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/23 (12:31:42) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/23 (12:31:42) | DEBUG: Shared::init() : Initialized.
+2025/02/23 (12:31:42) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/23 (15:49:59) | ERROR: Stall in Runner thread, restarting!
+
+2025/02/23 (15:55:34) | ===> btop++ v.1.4.0
+2025/02/23 (15:55:34) | INFO: Logger set to DEBUG
+2025/02/23 (15:55:34) | DEBUG: Using locale en_US.UTF-8
+2025/02/23 (15:55:34) | INFO: Running on /dev/pts/0
+2025/02/23 (15:55:34) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/23 (15:55:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/23 (15:55:34) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/23 (15:55:34) | DEBUG: Shared::init() : Initialized.
+2025/02/23 (15:55:34) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/23 (22:42:29) | ===> btop++ v.1.4.0
+2025/02/23 (22:42:29) | INFO: Logger set to DEBUG
+2025/02/23 (22:42:29) | DEBUG: Using locale en_US.UTF-8
+2025/02/23 (22:42:29) | INFO: Running on /dev/pts/0
+2025/02/23 (22:42:32) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/23 (22:42:32) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/23 (22:42:32) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/23 (22:42:32) | DEBUG: Shared::init() : Initialized.
+2025/02/23 (22:42:32) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/23 (22:45:13) | ===> btop++ v.1.4.0
+2025/02/23 (22:45:13) | INFO: Logger set to DEBUG
+2025/02/23 (22:45:13) | DEBUG: Using locale en_US.UTF-8
+2025/02/23 (22:45:13) | INFO: Running on /dev/pts/0
+2025/02/23 (22:45:16) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/23 (22:45:16) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/23 (22:45:16) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/23 (22:45:16) | DEBUG: Shared::init() : Initialized.
+2025/02/23 (22:45:16) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/23 (23:09:12) | ===> btop++ v.1.4.0
+2025/02/23 (23:09:12) | INFO: Logger set to DEBUG
+2025/02/23 (23:09:12) | DEBUG: Using locale en_US.UTF-8
+2025/02/23 (23:09:12) | INFO: Running on /dev/pts/0
+2025/02/23 (23:09:12) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/23 (23:09:12) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/23 (23:09:12) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/23 (23:09:12) | DEBUG: Shared::init() : Initialized.
+2025/02/23 (23:09:12) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/23 (23:42:15) | ===> btop++ v.1.4.0
+2025/02/23 (23:42:15) | INFO: Logger set to DEBUG
+2025/02/23 (23:42:15) | DEBUG: Using locale en_US.UTF-8
+2025/02/23 (23:42:15) | INFO: Running on /dev/pts/0
+2025/02/23 (23:42:15) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/23 (23:42:15) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/23 (23:42:15) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/23 (23:42:15) | DEBUG: Shared::init() : Initialized.
+2025/02/23 (23:42:15) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/24 (22:34:46) | ===> btop++ v.1.4.0
+2025/02/24 (22:34:46) | INFO: Logger set to DEBUG
+2025/02/24 (22:34:46) | DEBUG: Using locale en_US.UTF-8
+2025/02/24 (22:34:46) | INFO: Running on /dev/pts/0
+2025/02/24 (22:34:46) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/24 (22:34:46) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/24 (22:34:46) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/24 (22:34:46) | DEBUG: Shared::init() : Initialized.
+2025/02/24 (22:34:46) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/25 (09:32:32) | ===> btop++ v.1.4.0
+2025/02/25 (09:32:32) | INFO: Logger set to DEBUG
+2025/02/25 (09:32:32) | DEBUG: Using locale en_US.UTF-8
+2025/02/25 (09:32:32) | INFO: Running on /dev/pts/1
+2025/02/25 (09:32:34) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/25 (09:32:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/25 (09:32:34) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/25 (09:32:34) | DEBUG: Shared::init() : Initialized.
+2025/02/25 (09:32:34) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/26 (00:21:20) | ===> btop++ v.1.4.0
+2025/02/26 (00:21:20) | INFO: Logger set to DEBUG
+2025/02/26 (00:21:20) | DEBUG: Using locale en_US.UTF-8
+2025/02/26 (00:21:20) | INFO: Running on /dev/pts/0
+2025/02/26 (00:21:20) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/26 (00:21:21) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/26 (00:21:21) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/26 (00:21:21) | DEBUG: Shared::init() : Initialized.
+2025/02/26 (00:21:21) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/26 (00:21:35) | INFO: Quitting! Runtime: 00:00:15
+
+2025/02/26 (00:26:34) | ===> btop++ v.1.4.0
+2025/02/26 (00:26:34) | INFO: Logger set to DEBUG
+2025/02/26 (00:26:34) | DEBUG: Using locale en_US.UTF-8
+2025/02/26 (00:26:34) | INFO: Running on /dev/pts/0
+2025/02/26 (00:26:34) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/26 (00:26:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/26 (00:26:34) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/26 (00:26:34) | DEBUG: Shared::init() : Initialized.
+2025/02/26 (00:26:34) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/02/26 (00:26:46) | INFO: Quitting! Runtime: 00:00:12
+
+2025/02/27 (02:28:15) | ===> btop++ v.1.4.0
+2025/02/27 (02:28:15) | INFO: Logger set to DEBUG
+2025/02/27 (02:28:15) | DEBUG: Using locale en_US.UTF-8
+2025/02/27 (02:28:15) | INFO: Running on /dev/pts/1
+2025/02/27 (02:28:15) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2025/02/27 (02:28:15) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/27 (02:28:15) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/27 (02:28:15) | DEBUG: Shared::init() : Initialized.
+2025/02/27 (02:28:15) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/28 (00:07:57) | ===> btop++ v.1.4.0
+2025/02/28 (00:07:57) | INFO: Logger set to DEBUG
+2025/02/28 (00:07:57) | DEBUG: Using locale en_US.UTF-8
+2025/02/28 (00:07:57) | INFO: Running on /dev/pts/1
+2025/02/28 (00:07:57) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/28 (00:07:57) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/28 (00:07:57) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/28 (00:07:57) | DEBUG: Shared::init() : Initialized.
+2025/02/28 (00:07:57) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/28 (00:08:07) | ===> btop++ v.1.4.0
+2025/02/28 (00:08:07) | INFO: Logger set to DEBUG
+2025/02/28 (00:08:07) | DEBUG: Using locale en_US.UTF-8
+2025/02/28 (00:08:07) | INFO: Running on /dev/pts/1
+2025/02/28 (00:08:07) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/28 (00:08:07) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/28 (00:08:07) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/28 (00:08:07) | DEBUG: Shared::init() : Initialized.
+2025/02/28 (00:08:07) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/28 (00:08:43) | ===> btop++ v.1.4.0
+2025/02/28 (00:08:43) | INFO: Logger set to DEBUG
+2025/02/28 (00:08:43) | DEBUG: Using locale en_US.UTF-8
+2025/02/28 (00:08:43) | INFO: Running on /dev/pts/0
+2025/02/28 (00:08:43) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/28 (00:08:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/28 (00:08:43) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/28 (00:08:43) | DEBUG: Shared::init() : Initialized.
+2025/02/28 (00:08:43) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/28 (22:06:10) | ===> btop++ v.1.4.0
+2025/02/28 (22:06:10) | INFO: Logger set to DEBUG
+2025/02/28 (22:06:10) | DEBUG: Using locale en_US.UTF-8
+2025/02/28 (22:06:10) | INFO: Running on /dev/pts/1
+2025/02/28 (22:06:10) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/28 (22:06:10) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/28 (22:06:10) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/28 (22:06:10) | DEBUG: Shared::init() : Initialized.
+2025/02/28 (22:06:10) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/02/28 (22:07:42) | ===> btop++ v.1.4.0
+2025/02/28 (22:07:42) | INFO: Logger set to DEBUG
+2025/02/28 (22:07:42) | DEBUG: Using locale en_US.UTF-8
+2025/02/28 (22:07:42) | INFO: Running on /dev/pts/1
+2025/02/28 (22:07:42) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/02/28 (22:07:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/28 (22:07:42) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/28 (22:07:42) | DEBUG: Shared::init() : Initialized.
+2025/02/28 (22:07:42) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/03/01 (22:32:40) | ===> btop++ v.1.4.0
+2025/03/01 (22:32:40) | INFO: Logger set to DEBUG
+2025/03/01 (22:32:40) | DEBUG: Using locale en_US.UTF-8
+2025/03/01 (22:32:40) | INFO: Running on /dev/pts/1
+2025/03/01 (22:32:40) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/01 (22:32:40) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/01 (22:32:40) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/01 (22:32:40) | DEBUG: Shared::init() : Initialized.
+2025/03/01 (22:32:40) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/03/01 (23:30:31) | ===> btop++ v.1.4.0
+2025/03/01 (23:30:31) | INFO: Logger set to DEBUG
+2025/03/01 (23:30:31) | DEBUG: Using locale en_US.UTF-8
+2025/03/01 (23:30:31) | INFO: Running on /dev/pts/0
+2025/03/01 (23:30:32) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/01 (23:30:32) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/01 (23:30:32) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/01 (23:30:32) | DEBUG: Shared::init() : Initialized.
+2025/03/01 (23:30:32) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/03/03 (01:24:35) | ===> btop++ v.1.4.0
+2025/03/03 (01:24:35) | INFO: Logger set to DEBUG
+2025/03/03 (01:24:35) | DEBUG: Using locale en_US.UTF-8
+2025/03/03 (01:24:35) | INFO: Running on /dev/pts/1
+2025/03/03 (01:24:38) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/03 (01:24:38) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/03 (01:24:38) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/03 (01:24:38) | DEBUG: Shared::init() : Initialized.
+2025/03/03 (01:24:38) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/03/05 (01:07:28) | ===> btop++ v.1.4.0
+2025/03/05 (01:07:28) | INFO: Logger set to DEBUG
+2025/03/05 (01:07:28) | DEBUG: Using locale en_US.UTF-8
+2025/03/05 (01:07:28) | INFO: Running on /dev/pts/1
+2025/03/05 (01:07:28) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/05 (01:07:28) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/05 (01:07:28) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/05 (01:07:28) | DEBUG: Shared::init() : Initialized.
+2025/03/05 (01:07:28) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/03/05 (01:07:47) | INFO: Quitting! Runtime: 00:00:19
+
+2025/03/05 (01:08:29) | ===> btop++ v.1.4.0
+2025/03/05 (01:08:29) | INFO: Logger set to DEBUG
+2025/03/05 (01:08:29) | DEBUG: Using locale en_US.UTF-8
+2025/03/05 (01:08:29) | INFO: Running on /dev/pts/1
+2025/03/05 (01:08:29) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/05 (01:08:29) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/05 (01:08:29) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/05 (01:08:29) | DEBUG: Shared::init() : Initialized.
+2025/03/05 (01:08:29) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/03/05 (01:08:33) | INFO: Quitting! Runtime: 00:00:04
+
+2025/03/05 (01:17:21) | ===> btop++ v.1.4.0
+2025/03/05 (01:17:21) | INFO: Logger set to DEBUG
+2025/03/05 (01:17:21) | DEBUG: Using locale en_US.UTF-8
+2025/03/05 (01:17:21) | INFO: Running on /dev/pts/0
+2025/03/05 (01:17:21) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/05 (01:17:21) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/05 (01:17:21) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/05 (01:17:21) | DEBUG: Shared::init() : Initialized.
+2025/03/05 (01:17:21) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/03/05 (01:17:29) | INFO: Quitting! Runtime: 00:00:08
+
+2025/03/05 (23:25:15) | ===> btop++ v.1.4.0
+2025/03/05 (23:25:15) | INFO: Logger set to DEBUG
+2025/03/05 (23:25:15) | DEBUG: Using locale en_US.UTF-8
+2025/03/05 (23:25:15) | INFO: Running on /dev/pts/1
+2025/03/05 (23:25:17) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/05 (23:25:17) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/05 (23:25:17) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/05 (23:25:17) | DEBUG: Shared::init() : Initialized.
+2025/03/05 (23:25:17) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/03/05 (23:26:49) | ===> btop++ v.1.4.0
+2025/03/05 (23:26:49) | INFO: Logger set to DEBUG
+2025/03/05 (23:26:49) | DEBUG: Using locale en_US.UTF-8
+2025/03/05 (23:26:49) | INFO: Running on /dev/pts/1
+2025/03/05 (23:26:51) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/05 (23:26:51) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/05 (23:26:51) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/05 (23:26:51) | DEBUG: Shared::init() : Initialized.
+2025/03/05 (23:26:51) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/03/06 (00:42:27) | ===> btop++ v.1.4.0
+2025/03/06 (00:42:27) | INFO: Logger set to DEBUG
+2025/03/06 (00:42:27) | DEBUG: Using locale en_US.UTF-8
+2025/03/06 (00:42:27) | INFO: Running on /dev/pts/0
+2025/03/06 (00:42:29) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/06 (00:42:29) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/06 (00:42:29) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/06 (00:42:29) | DEBUG: Shared::init() : Initialized.
+2025/03/06 (00:42:29) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/03/06 (02:12:53) | ===> btop++ v.1.4.0
+2025/03/06 (02:12:53) | INFO: Logger set to DEBUG
+2025/03/06 (02:12:53) | DEBUG: Using locale en_US.UTF-8
+2025/03/06 (02:12:53) | INFO: Running on /dev/pts/1
+2025/03/06 (02:12:53) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/06 (02:12:53) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/06 (02:12:53) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/06 (02:12:53) | DEBUG: Shared::init() : Initialized.
+2025/03/06 (02:12:53) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/03/06 (02:12:57) | INFO: Quitting! Runtime: 00:00:04
+
+2025/03/06 (02:19:15) | ===> btop++ v.1.4.0
+2025/03/06 (02:19:15) | INFO: Logger set to DEBUG
+2025/03/06 (02:19:15) | DEBUG: Using locale en_US.UTF-8
+2025/03/06 (02:19:15) | INFO: Running on /dev/pts/1
+2025/03/06 (02:19:15) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/06 (02:19:15) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/06 (02:19:15) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/06 (02:19:15) | DEBUG: Shared::init() : Initialized.
+2025/03/06 (02:19:15) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/03/06 (02:19:20) | INFO: Quitting! Runtime: 00:00:05
+
+2025/03/06 (02:19:29) | ===> btop++ v.1.4.0
+2025/03/06 (02:19:29) | INFO: Logger set to DEBUG
+2025/03/06 (02:19:29) | DEBUG: Using locale en_US.UTF-8
+2025/03/06 (02:19:29) | INFO: Running on /dev/pts/1
+2025/03/06 (02:19:29) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/06 (02:19:29) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/06 (02:19:29) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/06 (02:19:29) | DEBUG: Shared::init() : Initialized.
+2025/03/06 (02:19:29) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/03/06 (02:19:34) | INFO: Quitting! Runtime: 00:00:05
+
+2025/03/06 (02:19:44) | ===> btop++ v.1.4.0
+2025/03/06 (02:19:44) | INFO: Logger set to DEBUG
+2025/03/06 (02:19:44) | DEBUG: Using locale en_US.UTF-8
+2025/03/06 (02:19:44) | INFO: Running on /dev/pts/1
+2025/03/06 (02:19:44) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/06 (02:19:44) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/06 (02:19:44) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/06 (02:19:44) | DEBUG: Shared::init() : Initialized.
+2025/03/06 (02:19:44) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+
+2025/03/06 (02:19:55) | ===> btop++ v.1.4.0
+2025/03/06 (02:19:55) | INFO: Logger set to DEBUG
+2025/03/06 (02:19:55) | DEBUG: Using locale en_US.UTF-8
+2025/03/06 (02:19:55) | INFO: Running on /dev/pts/3
+2025/03/06 (02:19:55) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/06 (02:19:55) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/06 (02:19:55) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/06 (02:19:55) | DEBUG: Shared::init() : Initialized.
+2025/03/06 (02:19:55) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/03/06 (02:20:00) | INFO: Quitting! Runtime: 00:00:05
+
+2025/03/06 (02:24:34) | ===> btop++ v.1.4.0
+2025/03/06 (02:24:34) | INFO: Logger set to DEBUG
+2025/03/06 (02:24:34) | DEBUG: Using locale en_US.UTF-8
+2025/03/06 (02:24:34) | INFO: Running on /dev/pts/2
+2025/03/06 (02:24:34) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/06 (02:24:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/06 (02:24:34) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/06 (02:24:34) | DEBUG: Shared::init() : Initialized.
+2025/03/06 (02:24:34) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
+2025/03/06 (02:24:38) | INFO: Quitting! Runtime: 00:00:04
+
+2025/03/08 (02:57:16) | ===> btop++ v.1.4.0
+2025/03/08 (02:57:16) | INFO: Logger set to DEBUG
+2025/03/08 (02:57:16) | DEBUG: Using locale en_US.UTF-8
+2025/03/08 (02:57:16) | INFO: Running on /dev/pts/1
+2025/03/08 (02:57:16) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/03/08 (02:57:16) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/03/08 (02:57:16) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/08 (02:57:16) | DEBUG: Shared::init() : Initialized.
+2025/03/08 (02:57:16) | DEBUG: Loading theme file: /home/vishwa/.config/btop/themes/catppuccin_mocha.theme
